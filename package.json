@@ -1,0 +1,13 @@
+{
+  "name": "concerto-build-output",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:imjching/concerto-build-output.git",
+  "author": "Jay <imjching@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4",
+    "helmet": "^3.8.1"
+  }
+}
